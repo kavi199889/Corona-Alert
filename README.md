@@ -4,11 +4,17 @@ A app use to identify the people affected by Corona and give an alert to other p
 
 
 
-Group details
+// Group details
 
 Kavitha.N. 19135144
 
 Abrar.J.M. 19205670
 
 M.B.B.Ahamed.  IT19162324
+
+
+
+//Profile link
+https://github.com/kavi199889/Corona-Alert
+
 
